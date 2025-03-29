@@ -1,0 +1,1 @@
+This project implements the Perceptron Learning Algorithm with the Pocket strategy for multi-class digit classification. Two feature sets are explored—symmetry + intensity and Histogram of Oriented Gradients (HOG)—alongside two classification strategies: One-vs-All and One-vs-One.

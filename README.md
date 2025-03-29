@@ -30,3 +30,26 @@ cd pocket-perceptron-classifier
 
 ## Results
 Below are the results:
+
+## HOG Features – One-vs-All (OvA) Results
+
+- **Training Confusion Matrix**  
+  ![OvA - Train Confusion Matrix](assets/HOG/ova/conf_train.png)
+
+- **Testing Confusion Matrix**  
+  ![OvA - Test Confusion Matrix](assets/HOG/ova/conf_test.png)
+
+- **Prediction Results**  
+  ![OvA - Results](assets/HOG/ova/results.png)
+
+## HOG Features – One-vs-One (OvO) Results
+
+- **Training Confusion Matrix**  
+  ![OvO - Train Confusion Matrix](assets/HOG/ovo/conf_train.png)
+
+- **Testing Confusion Matrix**  
+  ![OvO - Test Confusion Matrix](assets/HOG/ovo/conf_test.png)
+
+- **Prediction Results**  
+  ![OvO - Results](assets/HOG/ovo/results.png)
+  
